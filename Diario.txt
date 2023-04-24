@@ -1,0 +1,4 @@
+Para aprender se va copiar los ejemplos en python desde https://fehiepsi.github.io/.
+Ademas se intentara aplicar a un problema para ir entendiendo mejor.
+Si existen dudas se consulta a los videos o al libro.
+
